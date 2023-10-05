@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "list",
+      "body": "list",
+      "id": 1
+    },
+    {
+      "title": "list",
+      "body": "list",
+      "id": 2
+    },
+    {
+      "title": "list",
+      "body": "list",
+      "id": 3
+    }
+  ]
+}
